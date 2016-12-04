@@ -3,3 +3,4 @@
 creating a new branch is quickly and simple.
 write on dev1
 write on dev2
+wait for me
